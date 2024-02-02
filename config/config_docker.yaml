@@ -1,0 +1,8 @@
+server:
+  host: '0.0.0.0'
+  port: 5555
+client:
+  host: 'server'
+  port: 5555
+hash:
+  first_zeros_count: 5
